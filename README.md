@@ -1,5 +1,5 @@
 # Whatsapp-Group-text-analyser
-## Live Demo : https://group-text-analyser.streamlit.app
+## Live Demo : https://whatsappchatanalyser-vmubo9eeupa8c95zq3mfrm.streamlit.app/
 
 
 🚀 Features
